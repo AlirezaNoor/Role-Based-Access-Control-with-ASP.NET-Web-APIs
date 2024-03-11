@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AccessControl-Version2.props" />
+</Project>

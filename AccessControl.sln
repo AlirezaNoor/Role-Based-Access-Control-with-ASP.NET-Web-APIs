@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessControl", "AccessControl\AccessControl.csproj", "{DEB3E816-610F-405A-96F4-58065F69B929}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessControl-Version2", "AccessControl-Version2\AccessControl-Version2.csproj", "{8B8B26D1-3610-4F61-B603-1F58CF07CC97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{DEB3E816-610F-405A-96F4-58065F69B929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEB3E816-610F-405A-96F4-58065F69B929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEB3E816-610F-405A-96F4-58065F69B929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8B26D1-3610-4F61-B603-1F58CF07CC97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8B26D1-3610-4F61-B603-1F58CF07CC97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8B26D1-3610-4F61-B603-1F58CF07CC97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8B26D1-3610-4F61-B603-1F58CF07CC97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -38,6 +38,7 @@ builder.Services.AddAuthentication(opt =>
             ValidAudience = builder.Configuration["JWT:Audience"],
         };
     });
+
 builder.Services.AddEndpointsApiExplorer();
 // Define Swagger generation options and add Bearer token authentication
 builder.Services.AddSwaggerGen(c => {
